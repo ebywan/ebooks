@@ -1,4 +1,4 @@
-#Free Technology Ebooks from <a href="https://www.packtpub.com/">Packt Publishing</a>
+Free Technology Ebooks from <a href="https://www.packtpub.com/">Packt Publishing.</a>
 <b>Packt Publishing</b> offers a free technology ebook a day. You can avail this <a href="https://www.packtpub.com/packt/offers/free-learning">here</a>.
 <br>
 <br>
